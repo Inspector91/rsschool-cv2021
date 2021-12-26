@@ -1,6 +1,6 @@
 # Bogdanov Sergei  
 
-![foto](https://ibb.co/7NsWtJ6)  
+![foto](https://i.ibb.co/JFD7jRM/Sergei.jpg)  
 
 ## Personal information  
 
