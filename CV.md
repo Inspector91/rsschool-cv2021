@@ -17,7 +17,17 @@ I am an electrical engineer, currently designing solar power plants and electric
  
 ## Skills  
 
-+ css
-+ html
++ css3
++ html5
 + git
 + markdowm
++ VS Code  
+
+## Courses  
+
++ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+
+## Languages  
+
++ English - *Intermediant* (according to the online test at EFset ![logo] (https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg) [www.efset.org](www.efset.org))
++ Russian - *Native*
