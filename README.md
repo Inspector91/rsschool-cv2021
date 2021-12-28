@@ -1,2 +1,1 @@
-# rsschool-cv
-first repo
+https://inspector91.github.io/rsschool-cv/cv

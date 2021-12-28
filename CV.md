@@ -29,5 +29,5 @@ I am an electrical engineer, currently designing solar power plants and electric
 
 ## Languages  
 
-+ English - *Intermediant* (according to the online test at EFset ![logo] (https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg) [www.efset.org](www.efset.org))
++ English - *Intermediant* (according to the online test at [www.efset.org](www.efset.org))
 + Russian - *Native*
