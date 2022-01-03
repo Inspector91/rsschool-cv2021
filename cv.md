@@ -23,8 +23,10 @@ I am an electrical engineer, currently designing solar power plants and electric
 + markdowm
 + VS Code  
 
-## Courses  
-
+## Education  
++ Omsk Technical University, Electrical Engineer  
++ Omsk Technical University, Master in Electrical Power Engineering and Electrical Engineering
+### Courses
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
 
 ## Code example:  
