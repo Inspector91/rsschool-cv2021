@@ -12,7 +12,7 @@
 
 *Discord rs-school:* Sergei Bogdanov (@Inspector91)  
 
-## About me  
+## Summary  
 I am an electrical engineer, currently designing solar power plants and electrical substations. In 3 years I have reached the position of a leading engineer. I have a goal to become a Frontend developer. I study at Rolling Scopes School in JS/Frontend courses. I have teamwork skills, I am a good learner, and I work hard to achieve the goal. 
  
 ## Skills  
@@ -23,9 +23,15 @@ I am an electrical engineer, currently designing solar power plants and electric
 + markdowm
 + VS Code  
 
-## Courses  
-
+## Education  
++ Omsk Technical University, Electrical Engineer  
++ Omsk Technical University, Master in Electrical Power Engineering and Electrical Engineering
+### Courses
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+
+## Code example:  
+
+## Projects  
 
 ## Languages  
 
